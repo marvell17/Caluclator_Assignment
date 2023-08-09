@@ -1,3 +1,5 @@
+def divide(x,y);
+    return x/y 
 
 def exponentiate(x, y):
     return x ** y
