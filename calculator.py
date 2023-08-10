@@ -1,6 +1,12 @@
+//multiplication function
+def multiply(x,y);
+    return x*y 
+
+//division function
 def divide(x,y);
     return x/y 
 
+//exponentiation function
 def exponentiate(x, y):
     return x ** y
 
