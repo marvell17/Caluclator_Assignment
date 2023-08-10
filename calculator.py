@@ -1,3 +1,7 @@
+#subtract
+def subtract(x,y);
+     return x-y 
+
 #multiplication function
 def multiply(x,y);
     return x*y 
