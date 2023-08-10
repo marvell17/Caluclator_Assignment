@@ -1,12 +1,12 @@
-//multiplication function
+#multiplication function
 def multiply(x,y);
     return x*y 
 
-//division function
+#division function
 def divide(x,y);
     return x/y 
 
-//exponentiation function
+#exponentiation function
 def exponentiate(x, y):
     return x ** y
 
